@@ -1,0 +1,99 @@
+Marca temporal,Genero,Estatura (cm) solo numero y sin coma,Peso (Kg),Estado,Imc
+26/04/2021 18:26,Hombre,172,80,sobrepeso,27
+26/04/2021 18:29,Mujer,151,55,saludable,24
+26/04/2021 18:32,Mujer,157,57,saludable,23
+26/04/2021 18:35,Mujer,160,62,saludable,24
+26/04/2021 18:38,Hombre,173,70,saludable,23
+26/04/2021 18:39,Hombre,185,72,saludable,21
+26/04/2021 18:40,Hombre,178,54,bajo de peso,17
+26/04/2021 18:41,Hombre,180,99,obeso,31
+26/04/2021 18:42,Mujer,170,71,sobrepeso,25
+26/04/2021 18:44,Hombre,176,69,saludable,22
+26/04/2021 18:44,Hombre,190,70,saludable,19
+26/04/2021 18:45,Hombre,168,62,saludable,22
+26/04/2021 18:45,Hombre,183,115,obeso,34
+26/04/2021 18:46,Mujer,160,70,sobrepeso,27
+26/04/2021 18:47,Hombre,170,86,obeso,30
+26/04/2021 18:47,Hombre,183,89,sobrepeso,27
+26/04/2021 18:49,Mujer,160,50,saludable,20
+26/04/2021 18:50,Hombre,175,87,sobrepeso,28
+26/04/2021 18:50,Hombre,170,83,sobrepeso,29
+26/04/2021 18:50,Hombre,168,87,obeso,31
+26/04/2021 18:52,Hombre,182,84,sobrepeso,25
+26/04/2021 18:53,Hombre,182,74,saludable,22
+26/04/2021 18:55,Mujer,165,63,saludable,23
+26/04/2021 18:57,Hombre,170,88,obeso,30
+26/04/2021 18:58,Hombre,173,90,obeso,30
+26/04/2021 18:59,Hombre,182,74,saludable,22
+26/04/2021 19:00,Mujer,164,48,bajo de peso,18
+26/04/2021 19:01,Hombre,175,78,sobrepeso,25
+26/04/2021 19:01,Mujer,171,90,obeso,31
+26/04/2021 19:01,Hombre,166,58,saludable,21
+26/04/2021 19:03,Hombre,172,58,saludable,20
+26/04/2021 19:05,Hombre,178,60,saludable,19
+26/04/2021 19:05,Hombre,170,64,saludable,22
+26/04/2021 19:05,Hombre,170,80,sobrepeso,28
+26/04/2021 19:05,Mujer,155,53,saludable,22
+26/04/2021 19:05,Hombre,170,80,sobrepeso,28
+26/04/2021 19:05,Hombre,170,67,saludable,23
+26/04/2021 19:06,Hombre,183,80,saludable,24
+26/04/2021 19:06,Mujer,155,60,sobrepeso,25
+26/04/2021 19:10,Hombre,179,60,saludable,19
+26/04/2021 19:13,Hombre,190,90,sobrepeso,25
+26/04/2021 19:19,Hombre,166,58,saludable,21
+26/04/2021 19:30,Hombre,178,78,sobrepeso,25
+26/04/2021 19:32,Mujer,169,72,sobrepeso,25
+26/04/2021 19:36,Hombre,179,66,saludable,21
+26/04/2021 19:38,Hombre,160,55,saludable,21
+26/04/2021 19:41,Mujer,165,55,saludable,20
+26/04/2021 19:43,Hombre,173,82,sobrepeso,27
+26/04/2021 19:52,Hombre,171,76,sobrepeso,26
+26/04/2021 19:55,Mujer,163,65,saludable,24
+26/04/2021 20:01,Hombre,167,90,obeso,32
+26/04/2021 20:03,Hombre,167,90,obeso,32
+26/04/2021 20:06,Hombre,178,58,bajo de peso,18
+26/04/2021 20:06,Mujer,166,78,sobrepeso,28
+26/04/2021 20:07,Hombre,179,72,saludable,22
+26/04/2021 20:07,Hombre,179,74,saludable,23
+26/04/2021 20:13,Mujer,157,57,saludable,23
+26/04/2021 20:17,Hombre,170,55,saludable,19
+26/04/2021 20:20,Mujer,155,57,saludable,24
+26/04/2021 20:20,Mujer,156,86,obeso,35
+26/04/2021 20:21,Mujer,167,80,sobrepeso,29
+26/04/2021 20:23,Mujer,163,63,saludable,24
+26/04/2021 20:41,Mujer,153,59,sobrepeso,25
+26/04/2021 20:41,Mujer,150,67,obeso,30
+26/04/2021 20:43,Mujer,157,58,saludable,24
+26/04/2021 20:45,Mujer,170,70,saludable,24
+26/04/2021 20:45,Mujer,165,50,bajo de peso,18
+26/04/2021 20:58,Hombre,185,75,saludable,22
+26/04/2021 21:01,Hombre,168,100,obeso,35
+26/04/2021 21:06,Hombre,179,66,saludable,21
+26/04/2021 21:46,Mujer,158,79,obeso,32
+26/04/2021 21:52,Mujer,170,60,saludable,21
+26/04/2021 22:08,Mujer,156,60,sobrepeso,25
+26/04/2021 22:34,Hombre,170,52,bajo de peso,18
+27/04/2021 6:37,Hombre,175,100,obeso,33
+27/04/2021 7:12,Hombre,165,75,sobrepeso,28
+27/04/2021 13:36,Mujer,150,36,bajo de peso,16
+27/04/2021 15:22,Hombre,175,70,saludable,23
+27/04/2021 15:41,Mujer,177,98,obeso,31
+27/04/2021 15:51,Mujer,162,65,sobrepeso,25
+27/04/2021 16:01,Mujer,165,59,saludable,22
+27/04/2021 16:07,Mujer,150,48,saludable,21
+27/04/2021 16:13,Mujer,153,49,saludable,21
+27/04/2021 17:06,Mujer,165,54,saludable,20
+27/04/2021 17:12,Mujer,158,62,sobrepeso,25
+27/04/2021 17:14,Hombre,180,63,saludable,19
+27/04/2021 17:52,Mujer,153,59,sobrepeso,25
+27/04/2021 18:01,Mujer,167,55,saludable,20
+27/04/2021 18:19,Mujer,160,65,sobrepeso,25
+27/04/2021 18:39,Mujer,167,47,bajo de peso,17
+27/04/2021 18:57,Mujer,160,61,saludable,24
+28/04/2021 9:34,Mujer,150,90,obesidad morbida,40
+2/05/2021 23:11,Hombre,166,58,saludable,21
+3/05/2021 1:15,Hombre,166,58,saludable,21
+10/05/2021 8:51,Mujer,160,65,sobrepeso,25
+10/05/2021 9:30,Hombre,187,110,obeso,31
+10/05/2021 9:31,Mujer,155,51,saludable,21
+10/05/2021 9:33,Hombre,182,74,saludable,22
